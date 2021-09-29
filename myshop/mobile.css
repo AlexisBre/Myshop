@@ -1,0 +1,38 @@
+.block-search__search-icon {
+    height: 1.5rem;
+    width: 1.5rem;
+    position: relative;
+    top: 5em;
+}
+
+.block-search__brand-mention {
+    top: 110%;
+    right: 4%;
+}
+
+.block-search__pertinence {
+    font-size: inherit;
+  }
+
+.card-img-top {
+    max-height: 768px;
+}
+
+.navbar-toggler{
+    border: none;
+}
+.navbar-nav a:hover, .cart-icon:hover {
+    transform: none;
+}
+
+.carousel-inner{
+  display: none;
+}
+#tri{
+  position: absolute;
+  left: 12em;
+}
+/*#cart{
+  display: none;
+}*/
+
